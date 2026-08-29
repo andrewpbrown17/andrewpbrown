@@ -2,7 +2,7 @@
 Stipendiary Lecturer in Mathematics at St Edmund Hall, Oxford
 
 <figure class="tl">
-  <img src="/images/AndrewBrownheadshot1.jpg" alt="Photo of Andrew P Brown" style="width:300px;">
+  <img src="/assets/images/AndrewBrownheadshot1.jpg" alt="Photo of Andrew P Brown" style="width:300px;">
 </figure>
 
 
